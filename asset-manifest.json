@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/TravelGuru/static/css/main.f99ac197.css",
+    "main.js": "/TravelGuru/static/js/main.76ddf564.js",
+    "static/media/oceanWavesHome.mp4": "/TravelGuru/static/media/oceanWavesHome.da10b7ef74e2ea4ca6ed.mp4",
+    "static/media/oceanWavesFooter.mp4": "/TravelGuru/static/media/oceanWavesFooter.098cd10308b823ab4380.mp4",
+    "static/media/tajmahal.jpg": "/TravelGuru/static/media/tajmahal.51c5dc48dca6a1581e3d.jpg",
+    "static/media/boraBora.jpg": "/TravelGuru/static/media/boraBora.f026b2efcbf3d6816cd5.jpg",
+    "static/media/cinqueTerre.jpg": "/TravelGuru/static/media/cinqueTerre.c8dc1fa998af9a1f50d8.jpg",
+    "static/media/guanajuato.jpg": "/TravelGuru/static/media/guanajuato.21d7144bfb83d6400df4.jpg",
+    "static/media/grBrReef.jpg": "/TravelGuru/static/media/grBrReef.c1b2707f41a6e021357a.jpg",
+    "static/media/baliIsland.jpg": "/TravelGuru/static/media/baliIsland.511c45091b4ead4e31a3.jpg",
+    "static/media/angkor.jpg": "/TravelGuru/static/media/angkor.3b509a1679a8fcd4a497.jpg",
+    "static/media/machuPichu.jpg": "/TravelGuru/static/media/machuPichu.ab8b2af376d18aeaadfe.jpg",
+    "static/media/cappadocia.jpg": "/TravelGuru/static/media/cappadocia.e69fc3b0c6bbaa49a549.jpg",
+    "index.html": "/TravelGuru/index.html",
+    "main.f99ac197.css.map": "/TravelGuru/static/css/main.f99ac197.css.map",
+    "main.76ddf564.js.map": "/TravelGuru/static/js/main.76ddf564.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f99ac197.css",
+    "static/js/main.76ddf564.js"
+  ]
+}
